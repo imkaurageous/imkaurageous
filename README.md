@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Dhillon! 
+# Hello there 👋, I'm Jass Dhillon! 
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-Jass_Dhillon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaspreet-kaur-dhillon-418814163/)](https://www.linkedin.com/in/jaspreet-kaur-dhillon-418814163/) [![Github Badge](https://img.shields.io/badge/-imkaurageous-grey?style=flat&logo=github&logoColor=white&link=https://github.com/imkaurageous/)](https://www.github.com/imkaurageous/) ![Profile views](https://gpvc.arturio.dev/imkaurageous)
