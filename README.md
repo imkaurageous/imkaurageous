@@ -6,7 +6,7 @@
 - 🤓 I'm Full Stack .Net Developer
 - 💬 Let's talk about Software Architecture,.Net, JavaScript, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Nanded** IN, now based in **Chandigarh** IN
+- Originally from **Nanded** IN, now based in **Mumbai** IN
 
 ## Things I code with
 <p>
